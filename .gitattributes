@@ -1,0 +1,5 @@
+# Do not change the line endings by default
+* -text
+
+# help GitHub language detection for Modelica
+*.mo linguist-language=Modelica

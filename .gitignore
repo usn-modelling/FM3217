@@ -1,0 +1,6 @@
+*.txt
+*.mat
+*.c
+dymosim*
+
+FM3217_.mo
